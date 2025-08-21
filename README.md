@@ -27,9 +27,6 @@ Wellify is a comprehensive healthcare management platform designed to assist pat
    - Separate profiles for patients and doctors.
    - Doctors can manage their specializations, qualifications, and experience.
 
-### 7. **Admin Features**
-   - Admins can view all users and manage the platform.
-
 ---
 
 ## Tech Stack
